@@ -1,0 +1,11 @@
+#main {
+    border: solid black;
+    min-width: 500px;
+    min-height: 400px;
+}
+button {
+    background-color: aquamarine;
+}
+.error {
+    color: red;
+}
